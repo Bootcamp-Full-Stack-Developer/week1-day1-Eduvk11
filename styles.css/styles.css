@@ -1,0 +1,31 @@
+ p,ul{
+    color: #333333;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+ h1,h2{
+    color: #4A90E2;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  p span{
+    border-top: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd;
+    padding: 1rem 0;
+    font-size: 24px;
+    line-height: 1.5;
+  }
+  li abbr{
+    font-family: monospace;
+    font-size: .85rem;
+  }
+  p{
+    width: 80em
+  }
+  p.center {
+    color: #666666;
+    font-family: serif;
+    font-size: 1.2rem;
+    font-style: italic;
+    text-align: center; 
+  }
